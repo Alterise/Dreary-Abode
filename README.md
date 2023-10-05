@@ -47,3 +47,6 @@ Survival в постапокалипсисе, где основной целью
 
 - This War of Mine
 <img src="https://github.com/Alterise/Dreary-Abode/blob/main/References/this_war_of_mine.png" width="600" height="400">
+
+- 60 Seconds!
+<img src="https://github.com/Alterise/Dreary-Abode/blob/main/References/60_seconds.png" width="600" height="400">
